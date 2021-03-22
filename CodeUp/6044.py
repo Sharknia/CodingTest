@@ -1,0 +1,10 @@
+i = input().split(' ')
+a = int(i[0])
+b = int(i[1])
+
+print(a+b)
+print(a-b)
+print(a*b)
+print(int(a/b))
+print(a%b)
+print(round(a/b, 2))
