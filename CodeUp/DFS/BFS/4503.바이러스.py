@@ -5,8 +5,7 @@ from collections import deque
 리스트로 주어지는군여
 방문여부 체크하는 지도와 숫자 카운팅하는 지도
 
-그래프를 써서 다시 해보자
-참고 링크 https://daebaq27.tistory.com/25
+좀 이쁘게 다시 짜보자
 '''
 g1 = [] #방문여부 체크, 방문했으면 1
 g2 = [] #카운트
